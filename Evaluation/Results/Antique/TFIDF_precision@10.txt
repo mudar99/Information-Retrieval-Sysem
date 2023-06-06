@@ -1,0 +1,201 @@
+Query: how can we get concentration onsomething?	Precision: 0.3
+Query: Why doesn't the water fall off  earth if it's round?	Precision: 0.1
+Query: How do I determine the charge of the iron ion in FeCl3?	Precision: 0.0
+Query: I have mice.How do I get rid of them humanely?	Precision: 0.0
+Query: What does "see Leaflet" mean on Ept Pregnancy test?	Precision: 0.1
+Query: what is innate immunity?	Precision: 0.1
+Query: how can i lose 30 pounds by june3?	Precision: 0.5
+Query: What are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?	Precision: 0.0
+Query: Why must I have an uncracked winshield in order to for my car to pass a safety inspeciton?	Precision: 0.0
+Query: What is Blaphsemy?	Precision: 1.0
+Query: What's the proper way to express sorrow at a funeral?	Precision: 0.1
+Query: What do you speculate happened to Natalie Holloway in Aruba?	Precision: 0.1
+Query: How do people get hiccups, what are they, and what exactly is the best way to cure them?	Precision: 0.2
+Query: Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us?	Precision: 0.0
+Query: why do people judge a dog by what he looks like?	Precision: 0.0
+Query: Why do man rape little girls?	Precision: 0.1
+Query: what does the word remission mean when referring to cancer patients?	Precision: 0.0
+Query: how can we stop the spread of islam?	Precision: 0.2
+Query: How patient a driver are you?	Precision: 0.1
+Query: How is ego a part of our survival instincts?	Precision: 0.3
+Query: why do cats headbutt?	Precision: 0.1
+Query: How to cook Angus burgers?	Precision: 0.1
+Query: Why do people ask questions they know?	Precision: 0.0
+Query: What is the difference between coolant and anti-freeze?	Precision: 0.1
+Query: Why is yawning contagious?	Precision: 0.4
+Query: why does milk cost more than gas per gallon?	Precision: 0.1
+Query: how do crooks  make  fake   passports  ?	Precision: 0.3
+Query: i have had loose stools for a week...how do i make it stop?	Precision: 0.0
+Query: why some people behave so rude without reason,is it due to their own problem?	Precision: 0.1
+Query: how can I enjoy my time alone?	Precision: 0.0
+Query: how to make my car faster?	Precision: 0.1
+Query: What is the difference in a dried plum and a dried prune?	Precision: 0.1
+Query: How do i know if my gold fish is pregnant?	Precision: 0.1
+Query: Why do people drink Cuervo when it tastes the same going down as coming up?	Precision: 0.0
+Query: how good is apple pie when it is cold?	Precision: 0.2
+Query: Why do Arabs and Mexicans look alike?	Precision: 0.0
+Query: Why can't teenagers vote?	Precision: 0.0
+Query: Why did the Bush Admin cover up 9/11?	Precision: 0.1
+Query: How do I keep black birds out of my bar-b-que grill?	Precision: 0.0
+Query: how do i find out if someone left me a life insurance policy?	Precision: 0.2
+Query: Why is Gordon Ramsey so popular?	Precision: 0.0
+Query: Why hot air rises up?	Precision: 0.2
+Query: How do I remove the SIMM card on a LG VX8300 Cell Phone?	Precision: 0.0
+Query: what is the history of indian music?	Precision: 0.0
+Query: how soon can you drive on a newly paved driveway?	Precision: 0.1
+Query: Why is religious freedom more important today?	Precision: 0.0
+Query: what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?	Precision: 0.3
+Query: Why do airplanes fly so high?	Precision: 0.0
+Query: what factors cause the Earth to heat unevenly?	Precision: 0.0
+Query: we have pork chops, veal chops, lamb chops, why is there not any beef chops ?	Precision: 0.2
+Query: how is the library consider as a heart of university?	Precision: 0.0
+Query: how cloning will affects our community?	Precision: 0.1
+Query: What does the sentence's mean?	Precision: 0.0
+Query: Why do people feed poison (sugar) to their kids on Easter, and why are there no chocolate Jesuses?	Precision: 0.0
+Query: why does the sun shine?	Precision: 0.0
+Query: How can I keep my rabit indoors?	Precision: 0.1
+Query: Why is switching schools so depressing?	Precision: 0.0
+Query: how to get 277 V AC ?	Precision: 0.2
+Query: Why don't I have an asthma attack during sex?	Precision: 0.1
+Query: why girls are beautiful?	Precision: 0.1
+Query: how to handsew sequins?	Precision: 1.0
+Query: if red bull is soo bad for people ,then why is it soo popular?	Precision: 0.0
+Query: How can I treat my Acne Scars?	Precision: 0.3
+Query: how to design road crust for national highways?	Precision: 0.1
+Query: Why do you have memories?	Precision: 0.0
+Query: Why don't commercial planes fly over the North Pole?	Precision: 0.1
+Query: How can I get rid of pimples on my back?	Precision: 0.1
+Query: My city just put a ban on pit bulls, how do we reverse the decision?	Precision: 0.3
+Query: What are the different types of sins and how are they caused?	Precision: 0.0
+Query: What causes skin discoloration, specifically, whitening of the skin between fingers?	Precision: 0.0
+Query: how do I go about getting copies of letters of commendation prsented to me from city of san diego?	Precision: 0.1
+Query: How were you saved from sin-and born again as Jesus says "Except you repent, and be born again..." How didYou?	Precision: 0.3
+Query: what is a wet dream?	Precision: 0.0
+Query: how to rollover 401k into real estate?	Precision: 0.1
+Query: why is lemonade at restaurants sometimes different?	Precision: 0.2
+Query: How do you improve fuel efficiency of a 2004, Ford Ikon?	Precision: 0.3
+Query: How do you prevent chicken from drying out when you cook it?	Precision: 0.3
+Query: How can we understand Islam and Muslims better?	Precision: 0.0
+Query: Well the black light is UV light.So if it is "black" how can it be "light" ?	Precision: 0.1
+Query: why do anxiety and depression seem to coexist?	Precision: 0.3
+Query: since i have premature ejaculation problem, how to satisfy my girl?	Precision: 0.3
+Query: what does 5 by 5 mean?	Precision: 0.0
+Query: Why is April 19th important?	Precision: 0.0
+Query: Why do most cigarettes have the yellow filter?	Precision: 0.0
+Query: Why my GF feel like pissing during sexual intercourse?	Precision: 0.1
+Query: What's the Definition of a bloody mary?	Precision: 0.7
+Query: what is meant by mobile technology?	Precision: 0.1
+Query: Why do we wee a lot in the cold weather especially at night?	Precision: 0.0
+Query: How come Compton is only designated for black people?	Precision: 0.1
+Query: how do i deap fry chicken?	Precision: 0.3
+Query: How do I know if a particular term or phrase is copyrighted?	Precision: 0.4
+Query: Why do parent put kids on restriction?	Precision: 0.1
+Query: Which auto insurance do you use and why?	Precision: 0.1
+Query: Does anybody know where i could get a free guide on how to train a siberian husky?	Precision: 0.4
+Query: Why doesn't the bible make any sense?	Precision: 0.2
+Query: what are some good exercises to get rid of those love handles?	Precision: 0.0
+Query: what are mormens?	Precision: 1.0
+Query: what are the symptoms of strep throat?	Precision: 0.5
+Query: Why  is  the   war continuing  in  Afghanistan?	Precision: 0.0
+Query: how could u get success?	Precision: 0.3
+Query: Why am I not able to concentrate on my studies?	Precision: 0.4
+Query: what are some signs that puberty is beginning?	Precision: 0.4
+Query: Why do men fantasized about raping women?	Precision: 0.1
+Query: what is the term milky way?	Precision: 0.1
+Query: why do some people take life so seriously?	Precision: 0.1
+Query: How amoeba catches its prey?	Precision: 0.1
+Query: I know how I got here, but how did you?	Precision: 0.0
+Query: What does sholomister mean?	Precision: 0.0
+Query: Why is GW dogged for not getting OBL yet killing Zarkawi is a non-event?	Precision: 0.0
+Query: How do you sell a junk car without a title?	Precision: 0.1
+Query: why did the army have personal cuts in the mid 1990's?	Precision: 0.0
+Query: when it comes to religion why dont people realize history repeats itself?	Precision: 0.0
+Query: why is islam so hated in america?	Precision: 0.1
+Query: How can i stop my husband from exhuming my baby's body for compensation?	Precision: 0.0
+Query: How can I get rid of the hicups?	Precision: 0.0
+Query: Why does my Black Lab howl to "Law and Order" theme song?	Precision: 0.0
+Query: Why are liberals so quick to defend Saddam?	Precision: 0.1
+Query: why do black people like fried chicken somuch?	Precision: 0.0
+Query: How does spending prolonged time in microgravity affect the bodies of astronauts?	Precision: 0.0
+Query: how to get rid of a skunk?	Precision: 0.1
+Query: Why do people say Germans are racists?	Precision: 0.0
+Query: what causes gray facial hair in men?	Precision: 0.1
+Query: Why do man Arabs hate the west ?	Precision: 0.0
+Query: How do i get my pitbull more agressive?	Precision: 0.6
+Query: what can make someones ear's stink?	Precision: 0.0
+Query: what do i do if i have not started my period in like almost 6 months?	Precision: 0.3
+Query: Why am I alive?	Precision: 0.1
+Query: Why a man float on water when he dies?	Precision: 0.0
+Query: What are the marketing gimmicks that will attract males?	Precision: 0.0
+Query: how can i cure the std or the sexually transmitted disease?	Precision: 0.3
+Query: what color you like the most and why?	Precision: 0.0
+Query: why the media in US and Europe is always attacking the Arabs and Islam without finding the truth about them?	Precision: 0.0
+Query: what does the prefix "cyclo" mean in greek mythology?	Precision: 0.0
+Query: Why do Kamikaze pilots wear helmets?	Precision: 0.1
+Query: How Does Water Pressure Change?	Precision: 0.0
+Query: What are the names of some famous photographers and why do their work stand up?	Precision: 0.0
+Query: what is citriscidal?	Precision: 0.0
+Query: Why does my friend buy...?	Precision: 0.1
+Query: How can I hunt down and punch the people that keep spamming me?	Precision: 0.2
+Query: why do i have pterofobia?	Precision: 0.0
+Query: How do I find an Inmate at Southwest Detention Center 30755 Auld Rd., Murrieta, CA 92563?	Precision: 0.3
+Query: why live, when your in misery?	Precision: 0.2
+Query: why is the new jersey smoking ban not considered unconstitutional?	Precision: 0.2
+Query: USA have Snow, Hurricanes, Flood, Earthquakes and politicians, Brazil only have politicians, why?	Precision: 0.0
+Query: Why do I have to dumb myself down all the time though I am highly undereducated?	Precision: 0.0
+Query: Why do I keep seeing people on here 'dissing' on the soldiers in Iraq?	Precision: 0.1
+Query: Why don't fat people have to pay more for air travel?	Precision: 0.0
+Query: Why does asparugus make your pee stink?	Precision: 0.1
+Query: How is Catholicism not Christianity?	Precision: 0.0
+Query: Why does'nt America regard foriegn credentials?	Precision: 0.0
+Query: Why did the founder of Daewoo get a 10-year jail sentence?	Precision: 0.2
+Query: why do wisdom varies from person to person?	Precision: 0.0
+Query: Why was I punished for being christlike?	Precision: 0.2
+Query: How can I heat the water within a 150 gal tank that's open to the atmosphere in Feb.?	Precision: 0.1
+Query: what does 'wet behind the ears' mean?	Precision: 0.0
+Query: How can I get a cork out of, not into, a wine bottle without a corkscrew?	Precision: 0.1
+Query: What is the importance of absolute zero temperature?	Precision: 0.1
+Query: How can I become a playa?	Precision: 0.0
+Query: How can I develop leanbody and muscles?	Precision: 0.0
+Query: What is a Bro?	Precision: 0.0
+Query: how for is saturn from the sun?	Precision: 0.0
+Query: What is a nucleus?	Precision: 0.5
+Query: why do my baked potatos never taste near as good as when I get them in a nice restaurant?	Precision: 0.0
+Query: how does Ultraviolet Light Affects Seed Germination and plant growth?	Precision: 0.2
+Query: what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	Precision: 0.0
+Query: Why is the world so shallow?	Precision: 0.0
+Query: how were the witches tested in the salem witch trials?	Precision: 0.3
+Query: what is the punishment for child molestors?	Precision: 0.0
+Query: Why do only Humans have Finger prints?	Precision: 0.1
+Query: Freedom of Speech - why don't people understand how to use it?	Precision: 0.0
+Query: How do I grow taller?	Precision: 0.2
+Query: why do some animals hide in a dark place b4 they die?	Precision: 0.0
+Query: How do you get rid of wart on your hand a using home method?	Precision: 0.3
+Query: Couscous is a food from what origin?	Precision: 0.1
+Query: How to "LOSE"all body fat ?	Precision: 0.3
+Query: If you could be an element of weather, which would you choose, and why?	Precision: 0.1
+Query: What do you mean by "weed"?	Precision: 0.0
+Query: how does disneyland make it snow?	Precision: 0.1
+Query: what exemplifies effective customer service?	Precision: 0.2
+Query: what is minimalist cubisium?	Precision: 0.75
+Query: can anybody tell me what is a butler?	Precision: 0.2
+Query: Why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?	Precision: 0.2
+Query: Muslims Are The Happiest People Ever, Why?	Precision: 0.0
+Query: Why does loving someone hurts like hell?	Precision: 0.0
+Query: Why is there brail on the keypads at drive up ATM's?	Precision: 0.1
+Query: how to care for a spiked dragon and what to feed them?	Precision: 0.0
+Query: What do doctors do when a patient has a Do Nor Resuscitate Order?	Precision: 0.1
+Query: what are some easy ways to get a toddler to go to sleep without being mean?	Precision: 0.0
+Query: Causes and effects of the rise of Christanity?	Precision: 0.2
+Query: How is th Chemistry is a basic of Science?	Precision: 0.2
+Query: what is artificial intelligence?	Precision: 0.4
+Query: What is the difference between an ox and a bull?	Precision: 0.0
+Query: how can I hide the cuts on my wrists?	Precision: 0.1
+Query: how can you be more brilliant?	Precision: 0.1
+Query: Why some men never wash their hands after using the Urinal/Toilet?	Precision: 0.0
+Query: how are braces put on and do they hurt a lot?	Precision: 0.3
+Query: What do you order at Taco Bell?	Precision: 0.3
+Query: why do we go to school if in the real world we dont use most of it?	Precision: 0.0
+Query: Why do some people only go to church on Easter Sunday and never go again until Christmas ?	Precision: 0.2
+Query: what is masturbat***?	Precision: 1.0
+VSM Precision: 0.13175000000000012

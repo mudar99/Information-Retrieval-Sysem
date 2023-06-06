@@ -1,0 +1,201 @@
+Query: how can we get concentration onsomething?	RR: 0.0
+Query: Why doesn't the water fall off  earth if it's round?	RR: 1.0
+Query: How do I determine the charge of the iron ion in FeCl3?	RR: 0.14285714285714285
+Query: I have mice.How do I get rid of them humanely?	RR: 0.0
+Query: What does "see Leaflet" mean on Ept Pregnancy test?	RR: 0.25
+Query: what is innate immunity?	RR: 1.0
+Query: how can i lose 30 pounds by june3?	RR: 0.0
+Query: What are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?	RR: 0.14285714285714285
+Query: Why must I have an uncracked winshield in order to for my car to pass a safety inspeciton?	RR: 0.0
+Query: What is Blaphsemy?	RR: 0.0
+Query: What's the proper way to express sorrow at a funeral?	RR: 1.0
+Query: What do you speculate happened to Natalie Holloway in Aruba?	RR: 0.0
+Query: How do people get hiccups, what are they, and what exactly is the best way to cure them?	RR: 0.0
+Query: Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us?	RR: 0.0
+Query: why do people judge a dog by what he looks like?	RR: 0.0625
+Query: Why do man rape little girls?	RR: 1.0
+Query: what does the word remission mean when referring to cancer patients?	RR: 0.2
+Query: how can we stop the spread of islam?	RR: 0.2
+Query: How patient a driver are you?	RR: 0.0
+Query: How is ego a part of our survival instincts?	RR: 0.3333333333333333
+Query: why do cats headbutt?	RR: 0.0
+Query: How to cook Angus burgers?	RR: 0.0
+Query: Why do people ask questions they know?	RR: 0.0
+Query: What is the difference between coolant and anti-freeze?	RR: 0.05
+Query: Why is yawning contagious?	RR: 0.02564102564102564
+Query: why does milk cost more than gas per gallon?	RR: 0.5
+Query: how do crooks  make  fake   passports  ?	RR: 0.07692307692307693
+Query: i have had loose stools for a week...how do i make it stop?	RR: 0.047619047619047616
+Query: why some people behave so rude without reason,is it due to their own problem?	RR: 0.5
+Query: how can I enjoy my time alone?	RR: 0.1111111111111111
+Query: how to make my car faster?	RR: 0.0
+Query: What is the difference in a dried plum and a dried prune?	RR: 0.2
+Query: How do i know if my gold fish is pregnant?	RR: 0.1
+Query: Why do people drink Cuervo when it tastes the same going down as coming up?	RR: 1.0
+Query: how good is apple pie when it is cold?	RR: 0.14285714285714285
+Query: Why do Arabs and Mexicans look alike?	RR: 0.1111111111111111
+Query: Why can't teenagers vote?	RR: 0.1111111111111111
+Query: Why did the Bush Admin cover up 9/11?	RR: 0.0
+Query: How do I keep black birds out of my bar-b-que grill?	RR: 0.5
+Query: how do i find out if someone left me a life insurance policy?	RR: 0.05
+Query: Why is Gordon Ramsey so popular?	RR: 0.0
+Query: Why hot air rises up?	RR: 0.2
+Query: How do I remove the SIMM card on a LG VX8300 Cell Phone?	RR: 1.0
+Query: what is the history of indian music?	RR: 0.0
+Query: how soon can you drive on a newly paved driveway?	RR: 0.0
+Query: Why is religious freedom more important today?	RR: 0.3333333333333333
+Query: what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?	RR: 0.09090909090909091
+Query: Why do airplanes fly so high?	RR: 0.05555555555555555
+Query: what factors cause the Earth to heat unevenly?	RR: 0.25
+Query: we have pork chops, veal chops, lamb chops, why is there not any beef chops ?	RR: 0.0
+Query: how is the library consider as a heart of university?	RR: 0.5
+Query: how cloning will affects our community?	RR: 0.0
+Query: What does the sentence's mean?	RR: 0.0
+Query: Why do people feed poison (sugar) to their kids on Easter, and why are there no chocolate Jesuses?	RR: 0.0
+Query: why does the sun shine?	RR: 0.03571428571428571
+Query: How can I keep my rabit indoors?	RR: 0.0
+Query: Why is switching schools so depressing?	RR: 0.5
+Query: how to get 277 V AC ?	RR: 0.1111111111111111
+Query: Why don't I have an asthma attack during sex?	RR: 0.0
+Query: why girls are beautiful?	RR: 0.5
+Query: how to handsew sequins?	RR: 1.0
+Query: if red bull is soo bad for people ,then why is it soo popular?	RR: 0.07692307692307693
+Query: How can I treat my Acne Scars?	RR: 0.058823529411764705
+Query: how to design road crust for national highways?	RR: 0.0625
+Query: Why do you have memories?	RR: 0.0
+Query: Why don't commercial planes fly over the North Pole?	RR: 1.0
+Query: How can I get rid of pimples on my back?	RR: 0.25
+Query: My city just put a ban on pit bulls, how do we reverse the decision?	RR: 1.0
+Query: What are the different types of sins and how are they caused?	RR: 0.0
+Query: What causes skin discoloration, specifically, whitening of the skin between fingers?	RR: 0.0
+Query: how do I go about getting copies of letters of commendation prsented to me from city of san diego?	RR: 0.0
+Query: How were you saved from sin-and born again as Jesus says "Except you repent, and be born again..." How didYou?	RR: 0.3333333333333333
+Query: what is a wet dream?	RR: 0.0
+Query: how to rollover 401k into real estate?	RR: 0.25
+Query: why is lemonade at restaurants sometimes different?	RR: 1.0
+Query: How do you improve fuel efficiency of a 2004, Ford Ikon?	RR: 0.0
+Query: How do you prevent chicken from drying out when you cook it?	RR: 0.5
+Query: How can we understand Islam and Muslims better?	RR: 0.038461538461538464
+Query: Well the black light is UV light.So if it is "black" how can it be "light" ?	RR: 0.25
+Query: why do anxiety and depression seem to coexist?	RR: 0.25
+Query: since i have premature ejaculation problem, how to satisfy my girl?	RR: 0.25
+Query: what does 5 by 5 mean?	RR: 0.0
+Query: Why is April 19th important?	RR: 0.0
+Query: Why do most cigarettes have the yellow filter?	RR: 0.0
+Query: Why my GF feel like pissing during sexual intercourse?	RR: 0.0
+Query: What's the Definition of a bloody mary?	RR: 0.06666666666666667
+Query: what is meant by mobile technology?	RR: 0.5
+Query: Why do we wee a lot in the cold weather especially at night?	RR: 0.0
+Query: How come Compton is only designated for black people?	RR: 0.0
+Query: how do i deap fry chicken?	RR: 0.0
+Query: How do I know if a particular term or phrase is copyrighted?	RR: 1.0
+Query: Why do parent put kids on restriction?	RR: 0.16666666666666666
+Query: Which auto insurance do you use and why?	RR: 0.0
+Query: Does anybody know where i could get a free guide on how to train a siberian husky?	RR: 1.0
+Query: Why doesn't the bible make any sense?	RR: 0.029411764705882353
+Query: what are some good exercises to get rid of those love handles?	RR: 0.06666666666666667
+Query: what are mormens?	RR: 0.0
+Query: what are the symptoms of strep throat?	RR: 1.0
+Query: Why  is  the   war continuing  in  Afghanistan?	RR: 0.0
+Query: how could u get success?	RR: 0.1111111111111111
+Query: Why am I not able to concentrate on my studies?	RR: 0.07692307692307693
+Query: what are some signs that puberty is beginning?	RR: 0.16666666666666666
+Query: Why do men fantasized about raping women?	RR: 0.0
+Query: what is the term milky way?	RR: 0.3333333333333333
+Query: why do some people take life so seriously?	RR: 0.14285714285714285
+Query: How amoeba catches its prey?	RR: 0.08333333333333333
+Query: I know how I got here, but how did you?	RR: 0.0
+Query: What does sholomister mean?	RR: 0.0
+Query: Why is GW dogged for not getting OBL yet killing Zarkawi is a non-event?	RR: 0.0
+Query: How do you sell a junk car without a title?	RR: 0.5
+Query: why did the army have personal cuts in the mid 1990's?	RR: 0.0
+Query: when it comes to religion why dont people realize history repeats itself?	RR: 0.0
+Query: why is islam so hated in america?	RR: 0.0
+Query: How can i stop my husband from exhuming my baby's body for compensation?	RR: 0.0
+Query: How can I get rid of the hicups?	RR: 0.0
+Query: Why does my Black Lab howl to "Law and Order" theme song?	RR: 0.5
+Query: Why are liberals so quick to defend Saddam?	RR: 0.0
+Query: why do black people like fried chicken somuch?	RR: 0.2
+Query: How does spending prolonged time in microgravity affect the bodies of astronauts?	RR: 0.0625
+Query: how to get rid of a skunk?	RR: 0.0
+Query: Why do people say Germans are racists?	RR: 0.0
+Query: what causes gray facial hair in men?	RR: 0.5
+Query: Why do man Arabs hate the west ?	RR: 0.0
+Query: How do i get my pitbull more agressive?	RR: 0.1111111111111111
+Query: what can make someones ear's stink?	RR: 0.5
+Query: what do i do if i have not started my period in like almost 6 months?	RR: 0.07692307692307693
+Query: Why am I alive?	RR: 0.0
+Query: Why a man float on water when he dies?	RR: 0.0
+Query: What are the marketing gimmicks that will attract males?	RR: 0.0
+Query: how can i cure the std or the sexually transmitted disease?	RR: 0.05263157894736842
+Query: what color you like the most and why?	RR: 0.25
+Query: why the media in US and Europe is always attacking the Arabs and Islam without finding the truth about them?	RR: 0.029411764705882353
+Query: what does the prefix "cyclo" mean in greek mythology?	RR: 0.0
+Query: Why do Kamikaze pilots wear helmets?	RR: 0.3333333333333333
+Query: How Does Water Pressure Change?	RR: 0.0
+Query: What are the names of some famous photographers and why do their work stand up?	RR: 0.0
+Query: what is citriscidal?	RR: 0.0
+Query: Why does my friend buy...?	RR: 0.0
+Query: How can I hunt down and punch the people that keep spamming me?	RR: 0.0
+Query: why do i have pterofobia?	RR: 0.0
+Query: How do I find an Inmate at Southwest Detention Center 30755 Auld Rd., Murrieta, CA 92563?	RR: 1.0
+Query: why live, when your in misery?	RR: 0.0
+Query: why is the new jersey smoking ban not considered unconstitutional?	RR: 0.058823529411764705
+Query: USA have Snow, Hurricanes, Flood, Earthquakes and politicians, Brazil only have politicians, why?	RR: 0.0
+Query: Why do I have to dumb myself down all the time though I am highly undereducated?	RR: 0.0
+Query: Why do I keep seeing people on here 'dissing' on the soldiers in Iraq?	RR: 0.14285714285714285
+Query: Why don't fat people have to pay more for air travel?	RR: 0.0
+Query: Why does asparugus make your pee stink?	RR: 0.0
+Query: How is Catholicism not Christianity?	RR: 0.041666666666666664
+Query: Why does'nt America regard foriegn credentials?	RR: 0.0
+Query: Why did the founder of Daewoo get a 10-year jail sentence?	RR: 0.037037037037037035
+Query: why do wisdom varies from person to person?	RR: 0.14285714285714285
+Query: Why was I punished for being christlike?	RR: 0.021739130434782608
+Query: How can I heat the water within a 150 gal tank that's open to the atmosphere in Feb.?	RR: 0.0
+Query: what does 'wet behind the ears' mean?	RR: 0.05263157894736842
+Query: How can I get a cork out of, not into, a wine bottle without a corkscrew?	RR: 0.16666666666666666
+Query: What is the importance of absolute zero temperature?	RR: 1.0
+Query: How can I become a playa?	RR: 0.0
+Query: How can I develop leanbody and muscles?	RR: 0.041666666666666664
+Query: What is a Bro?	RR: 0.0625
+Query: how for is saturn from the sun?	RR: 0.0
+Query: What is a nucleus?	RR: 0.125
+Query: why do my baked potatos never taste near as good as when I get them in a nice restaurant?	RR: 0.14285714285714285
+Query: how does Ultraviolet Light Affects Seed Germination and plant growth?	RR: 1.0
+Query: what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	RR: 0.3333333333333333
+Query: Why is the world so shallow?	RR: 0.0
+Query: how were the witches tested in the salem witch trials?	RR: 0.05
+Query: what is the punishment for child molestors?	RR: 0.0
+Query: Why do only Humans have Finger prints?	RR: 0.3333333333333333
+Query: Freedom of Speech - why don't people understand how to use it?	RR: 1.0
+Query: How do I grow taller?	RR: 0.2
+Query: why do some animals hide in a dark place b4 they die?	RR: 0.1111111111111111
+Query: How do you get rid of wart on your hand a using home method?	RR: 0.2
+Query: Couscous is a food from what origin?	RR: 1.0
+Query: How to "LOSE"all body fat ?	RR: 0.1111111111111111
+Query: If you could be an element of weather, which would you choose, and why?	RR: 0.03571428571428571
+Query: What do you mean by "weed"?	RR: 0.3333333333333333
+Query: how does disneyland make it snow?	RR: 0.0
+Query: what exemplifies effective customer service?	RR: 0.5
+Query: what is minimalist cubisium?	RR: 1.0
+Query: can anybody tell me what is a butler?	RR: 0.0
+Query: Why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?	RR: 0.5
+Query: Muslims Are The Happiest People Ever, Why?	RR: 0.0
+Query: Why does loving someone hurts like hell?	RR: 0.0
+Query: Why is there brail on the keypads at drive up ATM's?	RR: 0.125
+Query: how to care for a spiked dragon and what to feed them?	RR: 0.0625
+Query: What do doctors do when a patient has a Do Nor Resuscitate Order?	RR: 0.0
+Query: what are some easy ways to get a toddler to go to sleep without being mean?	RR: 0.0
+Query: Causes and effects of the rise of Christanity?	RR: 0.0
+Query: How is th Chemistry is a basic of Science?	RR: 0.08333333333333333
+Query: what is artificial intelligence?	RR: 0.07692307692307693
+Query: What is the difference between an ox and a bull?	RR: 0.05555555555555555
+Query: how can I hide the cuts on my wrists?	RR: 0.0
+Query: how can you be more brilliant?	RR: 0.0
+Query: Why some men never wash their hands after using the Urinal/Toilet?	RR: 0.2
+Query: how are braces put on and do they hurt a lot?	RR: 0.25
+Query: What do you order at Taco Bell?	RR: 0.06666666666666667
+Query: why do we go to school if in the real world we dont use most of it?	RR: 1.0
+Query: Why do some people only go to church on Easter Sunday and never go again until Christmas ?	RR: 0.5
+Query: what is masturbat***?	RR: 0.0
+MRR: 0.19389175619471602

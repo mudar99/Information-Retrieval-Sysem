@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IR Search Engine</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Search Engine</h1>
+    <form id="search-form">
+      <div class="search-container">
+        <textarea  id="search-input" placeholder="Enter your search query"></textarea>
+        <div class="dataset-container">
+          <select id="datasets" required>
+            <option value="">Select Dataset</option>
+            <option value="A">Antique</option>
+            <option value="Q">Quora</option>
+          </select>
+        </div>
+        <button type="submit" id="search-button">Search</button>
+      </div>
+    </form>
+    <div id="loading-indicator" class="loading-indicator"></div>
+    <ul id="document-list" class="document-list"></ul>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>

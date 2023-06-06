@@ -1,0 +1,201 @@
+Query: how can we get concentration onsomething?	Recall: 0.25
+Query: Why doesn't the water fall off  earth if it's round?	Recall: 0.2
+Query: How do I determine the charge of the iron ion in FeCl3?	Recall: 0.21739130434782608
+Query: I have mice.How do I get rid of them humanely?	Recall: 0.0
+Query: What does "see Leaflet" mean on Ept Pregnancy test?	Recall: 0.3870967741935484
+Query: what is innate immunity?	Recall: 0.25
+Query: how can i lose 30 pounds by june3?	Recall: 0.12121212121212122
+Query: What are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?	Recall: 0.1724137931034483
+Query: Why must I have an uncracked winshield in order to for my car to pass a safety inspeciton?	Recall: 0.16129032258064516
+Query: What is Blaphsemy?	Recall: 0.05555555555555555
+Query: What's the proper way to express sorrow at a funeral?	Recall: 0.1891891891891892
+Query: What do you speculate happened to Natalie Holloway in Aruba?	Recall: 0.0
+Query: How do people get hiccups, what are they, and what exactly is the best way to cure them?	Recall: 0.2
+Query: Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us?	Recall: 0.12903225806451613
+Query: why do people judge a dog by what he looks like?	Recall: 0.16666666666666666
+Query: Why do man rape little girls?	Recall: 0.16129032258064516
+Query: what does the word remission mean when referring to cancer patients?	Recall: 0.2608695652173913
+Query: how can we stop the spread of islam?	Recall: 0.25
+Query: How patient a driver are you?	Recall: 0.29411764705882354
+Query: How is ego a part of our survival instincts?	Recall: 0.26666666666666666
+Query: why do cats headbutt?	Recall: 0.125
+Query: How to cook Angus burgers?	Recall: 0.1
+Query: Why do people ask questions they know?	Recall: 0.24324324324324326
+Query: What is the difference between coolant and anti-freeze?	Recall: 0.23076923076923078
+Query: Why is yawning contagious?	Recall: 0.375
+Query: why does milk cost more than gas per gallon?	Recall: 0.29411764705882354
+Query: how do crooks  make  fake   passports  ?	Recall: 0.20588235294117646
+Query: i have had loose stools for a week...how do i make it stop?	Recall: 0.13793103448275862
+Query: why some people behave so rude without reason,is it due to their own problem?	Recall: 0.08823529411764706
+Query: how can I enjoy my time alone?	Recall: 0.125
+Query: how to make my car faster?	Recall: 0.22727272727272727
+Query: What is the difference in a dried plum and a dried prune?	Recall: 0.5555555555555556
+Query: How do i know if my gold fish is pregnant?	Recall: 0.4
+Query: Why do people drink Cuervo when it tastes the same going down as coming up?	Recall: 0.23076923076923078
+Query: how good is apple pie when it is cold?	Recall: 0.41379310344827586
+Query: Why do Arabs and Mexicans look alike?	Recall: 0.14285714285714285
+Query: Why can't teenagers vote?	Recall: 0.10204081632653061
+Query: Why did the Bush Admin cover up 9/11?	Recall: 0.044444444444444446
+Query: How do I keep black birds out of my bar-b-que grill?	Recall: 0.08571428571428572
+Query: how do i find out if someone left me a life insurance policy?	Recall: 0.3103448275862069
+Query: Why is Gordon Ramsey so popular?	Recall: 0.047619047619047616
+Query: Why hot air rises up?	Recall: 0.5
+Query: How do I remove the SIMM card on a LG VX8300 Cell Phone?	Recall: 0.34782608695652173
+Query: what is the history of indian music?	Recall: 0.25925925925925924
+Query: how soon can you drive on a newly paved driveway?	Recall: 0.20833333333333334
+Query: Why is religious freedom more important today?	Recall: 0.17647058823529413
+Query: what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?	Recall: 0.13333333333333333
+Query: Why do airplanes fly so high?	Recall: 0.14285714285714285
+Query: what factors cause the Earth to heat unevenly?	Recall: 0.2692307692307692
+Query: we have pork chops, veal chops, lamb chops, why is there not any beef chops ?	Recall: 0.26666666666666666
+Query: how is the library consider as a heart of university?	Recall: 0.13333333333333333
+Query: how cloning will affects our community?	Recall: 0.12903225806451613
+Query: What does the sentence's mean?	Recall: 0.0
+Query: Why do people feed poison (sugar) to their kids on Easter, and why are there no chocolate Jesuses?	Recall: 0.07317073170731707
+Query: why does the sun shine?	Recall: 0.08571428571428572
+Query: How can I keep my rabit indoors?	Recall: 0.3125
+Query: Why is switching schools so depressing?	Recall: 0.125
+Query: how to get 277 V AC ?	Recall: 0.35714285714285715
+Query: Why don't I have an asthma attack during sex?	Recall: 0.23076923076923078
+Query: why girls are beautiful?	Recall: 0.11538461538461539
+Query: how to handsew sequins?	Recall: 1.0
+Query: if red bull is soo bad for people ,then why is it soo popular?	Recall: 0.14
+Query: How can I treat my Acne Scars?	Recall: 0.16666666666666666
+Query: how to design road crust for national highways?	Recall: 0.1724137931034483
+Query: Why do you have memories?	Recall: 0.25
+Query: Why don't commercial planes fly over the North Pole?	Recall: 0.34615384615384615
+Query: How can I get rid of pimples on my back?	Recall: 0.12903225806451613
+Query: My city just put a ban on pit bulls, how do we reverse the decision?	Recall: 0.39285714285714285
+Query: What are the different types of sins and how are they caused?	Recall: 0.2
+Query: What causes skin discoloration, specifically, whitening of the skin between fingers?	Recall: 0.09090909090909091
+Query: how do I go about getting copies of letters of commendation prsented to me from city of san diego?	Recall: 0.21875
+Query: How were you saved from sin-and born again as Jesus says "Except you repent, and be born again..." How didYou?	Recall: 0.30303030303030304
+Query: what is a wet dream?	Recall: 0.2
+Query: how to rollover 401k into real estate?	Recall: 0.5
+Query: why is lemonade at restaurants sometimes different?	Recall: 0.14285714285714285
+Query: How do you improve fuel efficiency of a 2004, Ford Ikon?	Recall: 0.1111111111111111
+Query: How do you prevent chicken from drying out when you cook it?	Recall: 0.275
+Query: How can we understand Islam and Muslims better?	Recall: 0.3076923076923077
+Query: Well the black light is UV light.So if it is "black" how can it be "light" ?	Recall: 0.375
+Query: why do anxiety and depression seem to coexist?	Recall: 0.25
+Query: since i have premature ejaculation problem, how to satisfy my girl?	Recall: 0.37142857142857144
+Query: what does 5 by 5 mean?	Recall: 0.0
+Query: Why is April 19th important?	Recall: 0.3333333333333333
+Query: Why do most cigarettes have the yellow filter?	Recall: 0.19047619047619047
+Query: Why my GF feel like pissing during sexual intercourse?	Recall: 0.12195121951219512
+Query: What's the Definition of a bloody mary?	Recall: 0.36363636363636365
+Query: what is meant by mobile technology?	Recall: 0.42105263157894735
+Query: Why do we wee a lot in the cold weather especially at night?	Recall: 0.1111111111111111
+Query: How come Compton is only designated for black people?	Recall: 0.02857142857142857
+Query: how do i deap fry chicken?	Recall: 0.3
+Query: How do I know if a particular term or phrase is copyrighted?	Recall: 0.20238095238095238
+Query: Why do parent put kids on restriction?	Recall: 0.15151515151515152
+Query: Which auto insurance do you use and why?	Recall: 0.125
+Query: Does anybody know where i could get a free guide on how to train a siberian husky?	Recall: 0.06666666666666667
+Query: Why doesn't the bible make any sense?	Recall: 0.1875
+Query: what are some good exercises to get rid of those love handles?	Recall: 0.06896551724137931
+Query: what are mormens?	Recall: 0.14285714285714285
+Query: what are the symptoms of strep throat?	Recall: 0.5625
+Query: Why  is  the   war continuing  in  Afghanistan?	Recall: 0.1111111111111111
+Query: how could u get success?	Recall: 0.14705882352941177
+Query: Why am I not able to concentrate on my studies?	Recall: 0.3448275862068966
+Query: what are some signs that puberty is beginning?	Recall: 0.48148148148148145
+Query: Why do men fantasized about raping women?	Recall: 0.16
+Query: what is the term milky way?	Recall: 0.30434782608695654
+Query: why do some people take life so seriously?	Recall: 0.18333333333333332
+Query: How amoeba catches its prey?	Recall: 0.16
+Query: I know how I got here, but how did you?	Recall: 0.03125
+Query: What does sholomister mean?	Recall: 0.0
+Query: Why is GW dogged for not getting OBL yet killing Zarkawi is a non-event?	Recall: 0.0
+Query: How do you sell a junk car without a title?	Recall: 0.34782608695652173
+Query: why did the army have personal cuts in the mid 1990's?	Recall: 0.12903225806451613
+Query: when it comes to religion why dont people realize history repeats itself?	Recall: 0.08888888888888889
+Query: why is islam so hated in america?	Recall: 0.13513513513513514
+Query: How can i stop my husband from exhuming my baby's body for compensation?	Recall: 0.022222222222222223
+Query: How can I get rid of the hicups?	Recall: 0.1
+Query: Why does my Black Lab howl to "Law and Order" theme song?	Recall: 0.16129032258064516
+Query: Why are liberals so quick to defend Saddam?	Recall: 0.16666666666666666
+Query: why do black people like fried chicken somuch?	Recall: 0.35294117647058826
+Query: How does spending prolonged time in microgravity affect the bodies of astronauts?	Recall: 0.04
+Query: how to get rid of a skunk?	Recall: 0.0
+Query: Why do people say Germans are racists?	Recall: 0.22580645161290322
+Query: what causes gray facial hair in men?	Recall: 0.2222222222222222
+Query: Why do man Arabs hate the west ?	Recall: 0.24
+Query: How do i get my pitbull more agressive?	Recall: 0.3157894736842105
+Query: what can make someones ear's stink?	Recall: 0.11363636363636363
+Query: what do i do if i have not started my period in like almost 6 months?	Recall: 0.2
+Query: Why am I alive?	Recall: 0.27906976744186046
+Query: Why a man float on water when he dies?	Recall: 0.14705882352941177
+Query: What are the marketing gimmicks that will attract males?	Recall: 0.14285714285714285
+Query: how can i cure the std or the sexually transmitted disease?	Recall: 0.36666666666666664
+Query: what color you like the most and why?	Recall: 0.05172413793103448
+Query: why the media in US and Europe is always attacking the Arabs and Islam without finding the truth about them?	Recall: 0.11764705882352941
+Query: what does the prefix "cyclo" mean in greek mythology?	Recall: 0.09375
+Query: Why do Kamikaze pilots wear helmets?	Recall: 0.3939393939393939
+Query: How Does Water Pressure Change?	Recall: 0.22580645161290322
+Query: What are the names of some famous photographers and why do their work stand up?	Recall: 0.06060606060606061
+Query: what is citriscidal?	Recall: 0.0
+Query: Why does my friend buy...?	Recall: 0.11627906976744186
+Query: How can I hunt down and punch the people that keep spamming me?	Recall: 0.08333333333333333
+Query: why do i have pterofobia?	Recall: 0.0
+Query: How do I find an Inmate at Southwest Detention Center 30755 Auld Rd., Murrieta, CA 92563?	Recall: 0.14705882352941177
+Query: why live, when your in misery?	Recall: 0.0
+Query: why is the new jersey smoking ban not considered unconstitutional?	Recall: 0.20512820512820512
+Query: USA have Snow, Hurricanes, Flood, Earthquakes and politicians, Brazil only have politicians, why?	Recall: 0.25925925925925924
+Query: Why do I have to dumb myself down all the time though I am highly undereducated?	Recall: 0.11764705882352941
+Query: Why do I keep seeing people on here 'dissing' on the soldiers in Iraq?	Recall: 0.2727272727272727
+Query: Why don't fat people have to pay more for air travel?	Recall: 0.06060606060606061
+Query: Why does asparugus make your pee stink?	Recall: 0.3
+Query: How is Catholicism not Christianity?	Recall: 0.08333333333333333
+Query: Why does'nt America regard foriegn credentials?	Recall: 0.02631578947368421
+Query: Why did the founder of Daewoo get a 10-year jail sentence?	Recall: 0.2
+Query: why do wisdom varies from person to person?	Recall: 0.32432432432432434
+Query: Why was I punished for being christlike?	Recall: 0.22916666666666666
+Query: How can I heat the water within a 150 gal tank that's open to the atmosphere in Feb.?	Recall: 0.125
+Query: what does 'wet behind the ears' mean?	Recall: 0.06451612903225806
+Query: How can I get a cork out of, not into, a wine bottle without a corkscrew?	Recall: 0.3333333333333333
+Query: What is the importance of absolute zero temperature?	Recall: 0.48
+Query: How can I become a playa?	Recall: 0.0
+Query: How can I develop leanbody and muscles?	Recall: 0.1891891891891892
+Query: What is a Bro?	Recall: 0.45714285714285713
+Query: how for is saturn from the sun?	Recall: 0.11904761904761904
+Query: What is a nucleus?	Recall: 0.42105263157894735
+Query: why do my baked potatos never taste near as good as when I get them in a nice restaurant?	Recall: 0.10344827586206896
+Query: how does Ultraviolet Light Affects Seed Germination and plant growth?	Recall: 0.42857142857142855
+Query: what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	Recall: 0.15151515151515152
+Query: Why is the world so shallow?	Recall: 0.2857142857142857
+Query: how were the witches tested in the salem witch trials?	Recall: 0.34782608695652173
+Query: what is the punishment for child molestors?	Recall: 0.13157894736842105
+Query: Why do only Humans have Finger prints?	Recall: 0.38461538461538464
+Query: Freedom of Speech - why don't people understand how to use it?	Recall: 0.21875
+Query: How do I grow taller?	Recall: 0.17777777777777778
+Query: why do some animals hide in a dark place b4 they die?	Recall: 0.1794871794871795
+Query: How do you get rid of wart on your hand a using home method?	Recall: 0.38461538461538464
+Query: Couscous is a food from what origin?	Recall: 0.1724137931034483
+Query: How to "LOSE"all body fat ?	Recall: 0.4358974358974359
+Query: If you could be an element of weather, which would you choose, and why?	Recall: 0.05128205128205128
+Query: What do you mean by "weed"?	Recall: 0.36363636363636365
+Query: how does disneyland make it snow?	Recall: 0.08823529411764706
+Query: what exemplifies effective customer service?	Recall: 0.41935483870967744
+Query: what is minimalist cubisium?	Recall: 0.6666666666666666
+Query: can anybody tell me what is a butler?	Recall: 0.0
+Query: Why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?	Recall: 0.2571428571428571
+Query: Muslims Are The Happiest People Ever, Why?	Recall: 0.05263157894736842
+Query: Why does loving someone hurts like hell?	Recall: 0.2777777777777778
+Query: Why is there brail on the keypads at drive up ATM's?	Recall: 0.25925925925925924
+Query: how to care for a spiked dragon and what to feed them?	Recall: 0.09090909090909091
+Query: What do doctors do when a patient has a Do Nor Resuscitate Order?	Recall: 0.17647058823529413
+Query: what are some easy ways to get a toddler to go to sleep without being mean?	Recall: 0.0
+Query: Causes and effects of the rise of Christanity?	Recall: 0.10714285714285714
+Query: How is th Chemistry is a basic of Science?	Recall: 0.30434782608695654
+Query: what is artificial intelligence?	Recall: 0.3235294117647059
+Query: What is the difference between an ox and a bull?	Recall: 0.35
+Query: how can I hide the cuts on my wrists?	Recall: 0.12121212121212122
+Query: how can you be more brilliant?	Recall: 0.3333333333333333
+Query: Why some men never wash their hands after using the Urinal/Toilet?	Recall: 0.1951219512195122
+Query: how are braces put on and do they hurt a lot?	Recall: 0.34210526315789475
+Query: What do you order at Taco Bell?	Recall: 0.4117647058823529
+Query: why do we go to school if in the real world we dont use most of it?	Recall: 0.1891891891891892
+Query: Why do some people only go to church on Easter Sunday and never go again until Christmas ?	Recall: 0.3
+Query: what is masturbat***?	Recall: 0.0
+Average Recall: 0.2088330232606957

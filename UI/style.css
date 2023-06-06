@@ -1,0 +1,143 @@
+/* Global Styles */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #1a0dab;
+  /* Google Blue */
+}
+
+/* Search Form */
+
+#search-form {
+  margin-bottom: 20px;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#search-input {
+  flex: 1;
+  margin-right: 10px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: #f8f8f8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: #333;
+  transition: box-shadow 0.3s ease;
+}
+
+#search-input:focus {
+  outline: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dataset-container {
+  margin-right: 10px;
+}
+
+#datasets {
+  padding: 8px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: #333;
+  transition: box-shadow 0.3s ease;
+}
+
+#datasets:focus {
+  outline: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#search-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#search-button:hover {
+  background-color: #0056b3;
+}
+
+#search-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Document List */
+
+.document-list {
+  padding: 0;
+}
+
+#document-list li {
+  list-style: decimal;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  transition: box-shadow 0.3s ease;
+}
+
+#document-list li:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Loading Indicator */
+
+.loading-indicator {
+  text-align: center;
+  margin-top: 20px;
+  font-style: italic;
+  color: #888;
+  display: none;
+}
+
+/* Responsive Styles */
+
+@media (max-width: 600px) {
+  .container {
+    padding: 10px;
+  }
+
+  #search-input {
+    height: 32px;
+    font-size: 14px;
+  }
+
+  #search-button {
+    padding: 8px 16px;
+    font-size: 14px;
+  }
+}
